@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+flask
+langchain_groq
+dotenv
+langchain_core
+firebase_admin
